@@ -6,7 +6,7 @@ Dự án này nhằm phát triển một ứng dụng di động bằng framewor
 
 ## Thành Viên Nhóm
 
-1. **[Nguyễn Lê Bảo Ngân]:** [VNhóm trưởng]
+1. **[Nguyễn Lê Bảo Ngân]:** [Nhóm trưởng]
 
 2. **[Hồ Quốc Thành]:** [Thành viên]
    
