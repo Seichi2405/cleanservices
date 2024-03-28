@@ -1,19 +1,8 @@
-# Flutter Project - Nhóm 4 Thành Viên
+# Flutter Project
 
 ## Giới thiệu
 
 Dự án này nhằm phát triển một ứng dụng di động bằng framework Flutter, với một nhóm gồm bốn thành viên. Flutter cung cấp một nền tảng xuất sắc để xây dựng các ứng dụng di động chạy trên nhiều nền tảng với một mã nguồn duy nhất, giúp chúng tôi mang lại trải nghiệm mượt mà trên cả thiết bị Android và iOS.
-
-## Thành Viên Nhóm
-
-1. **[Nguyễn Lê Bảo Ngân]:** [VNhóm trưởng]
-
-2. **[Hồ Quốc Thành]:** [Thành viên]
-   
-
-3. **[Trần Đình Thọ]:** [Thành viên]
-
-4. **[Nguyễn Đình Hoàng]:** [Thành viên]
 
 ## Tổng Quan Dự Án
 
